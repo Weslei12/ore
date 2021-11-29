@@ -1,0 +1,2 @@
+# ore
+Ainda não sei
